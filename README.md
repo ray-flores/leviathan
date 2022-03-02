@@ -33,6 +33,7 @@ Create New Task
 ### Technologies
 
 - React
+- React Router
 - Context API
 - Firebase: User Authentication, Hosting, & Firestore Database
 - React Firebase Hooks
