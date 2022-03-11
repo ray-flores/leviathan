@@ -4,7 +4,7 @@ Check it out at: https://leviathan-833fd.web.app/login
 
 Leviathan is a responsive full stack project organization tool that provides a solution to collaboration and group work.
 
-Working in groups and collaborating with your classmates can be tough. From sharing notes, resources, and planning in multiple apps, to juggling the workload, and making sure everyone is on the same page, we thought that there should be a simpler way.
+Working in groups and collaborating with your classmates or colleagues can be tough. From sharing notes, resources, and planning in multiple apps, to juggling the workload, and making sure everyone is on the same page, we thought that there should be a simpler way.
 
 We do this by giving our users a one stop shop that combines the functionality of apps like slack and google docs, with the organizational tools of Trello. By allowing users to contribute where they are strong, and learn and grow on tasks where they are weak with the help of their team, Leviathan gives everyone a birds eye view of the project and a powerful way to manage all those tiny details.
 
