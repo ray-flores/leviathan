@@ -2,7 +2,7 @@
 
 Check it out at: https://leviathan-833fd.web.app/login
 
-Leviathan is a responsive full stack project organization tool that provides a solution to student collaboration and group work.
+Leviathan is a responsive full stack project organization tool that provides a solution to collaboration and group work.
 
 Working in groups and collaborating with your classmates can be tough. From sharing notes, resources, and planning in multiple apps, to juggling the workload, and making sure everyone is on the same page, we thought that there should be a simpler way.
 
